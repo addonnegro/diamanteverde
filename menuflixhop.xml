@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<item><title>[B][COLOR dodgerblue]       ▬▬▬▬▬▬▬▬▬▬▬▬★★★★▬▬▬▬▬▬▬▬▬▬▬▬▬[/COLOR]
+ [COLOR yellow]★★★★★★★★★★[/COLOR][COLOR white]School hip hop 2018[/COLOR][COLOR crimson]★★★★★★★★★★[/B][/COLOR]</title></item>
+
+
+
+
+
+<item>
+<title>[B]School hiphop [/B] G h o s t </title>
+<externallink>na</externallink>
+<link>NA</link>
+<thumbnail>https://dl.dropbox.com/s/7jm6pqx578e10yr/Tharindu%20Madushanka.jpg?dl=0</thumbnail>
+<fanart>http://7-themes.com/data_images/out/44/6920807-graffiti-wallpaper-desktop-1080p.jpg</fanart>
+<info>The BlackGhost Addon</info>
+</item>
+
+
+<item>
+<title>Haz [B]play[/B]  [B]https://pay[/B] o al   </title>
+<link>https://dl.dropbox.com/s/ggr4dfhmkgylsly/Tego%20Calderon-Recopilacion%20de%20canciones%20de%20rap%20Part1.mp3</link>
+<thumbnail>http://7-themes.com/data_images/out/44/6920807-graffiti-wallpaper-desktop-1080p.jpg</thumbnail><fanart>https://i.pinimg.com/originals/3e/e3/d9/3ee3d9017f9183b51d384fbec5efc293.jpg</fanart>
+<info>rap</info>
+</item>
+
+
+
+
+<item>
+<title>Haz [B]play en olpair.com[/B]  [B]https://pay[/B] o al   </title>
+<link>https://olpair.com/</link>
+<thumbnail>http://7-themes.com/data_images/out/44/6920807-graffiti-wallpaper-desktop-1080p.jpg</thumbnail><fanart>https://i.pinimg.com/originals/3e/e3/d9/3ee3d9017f9183b51d384fbec5efc293.jpg</fanart>
+<info>rap</info>
+</item>
+
+
+
+
+
+
+
+<item>
+<title>Deportes</title>
+<link>http://ignorame</link><thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/deportes.png</thumbnail><fanart>https://i.pinimg.com/originals/3e/e3/d9/3ee3d9017f9183b51d384fbec5efc293.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/blackghostaddon/gray/master/deportes.xml</externallink>
+</item>
+
+<item>
+<title>Deportes 2018</title>
+<link>http://ignorame</link><thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/deportes.png</thumbnail><fanart>https://i.pinimg.com/originals/3e/e3/d9/3ee3d9017f9183b51d384fbec5efc293.jpg</fanart>
+<externallink>http://gen-tec.co/gentecwiz/PLEASE%20SUBSCRIBE%20TO%20CHARLIE%20TEC%20YOUTUBE/star/LiveTv/sportsmain.xml</externallink>
+</item>
+
+<item>
+<title>Extratime</title>
+<link>http://ignorame</link><thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/extratime.png</thumbnail><fanart>https://i.pinimg.com/originals/3e/e3/d9/3ee3d9017f9183b51d384fbec5efc293.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/blackghostaddon/gray/master/multicanales.xml</externallink>
+</item>
+
+
+<item>
+<title>Acestreams</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/blackghostaddon/gray/master/plexus.xml</externallink>
+<fanart>https://i.pinimg.com/originals/3e/e3/d9/3ee3d9017f9183b51d384fbec5efc293.jpg</fanart>
+<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/acestream.png</thumbnail>
+</item>
+
+<item>
+<title>Peliculas HD </title>
+<link>http://ignorame</link><thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/peliculas.png</thumbnail><fanart>https://i.pinimg.com/originals/3e/e3/d9/3ee3d9017f9183b51d384fbec5efc293.jpg</fanart>
+<externallink>https://dl.dropbox.com/s/hgft81iowk829ji/ALL%20PELICULAS.xml</externallink>
+</item>
+
+
+<item>
+<title>Peliculas</title>
+<link>http://ignorame</link><thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/peliculas.png</thumbnail><fanart>https://i.pinimg.com/originals/3e/e3/d9/3ee3d9017f9183b51d384fbec5efc293.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/blackghostaddon/gray/master/pyt_vod.xml</externallink>
+</item>
+
+
+<item>
+<title>Series de TV </title>
+<link>http://ignorame</link><thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/series.png</thumbnail>
+	<fanart>https://i.pinimg.com/originals/3e/e3/d9/3ee3d9017f9183b51d384fbec5efc293.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/blackghostaddon/gray/master/gnula.xml</externallink>
+</item>
+
+<item>
+<title>Torrents [COLOR lightslategray] [/COLOR]</title>
+<link>http://ignorame</link><thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/torrent.png</thumbnail><fanart>https://i.pinimg.com/originals/3e/e3/d9/3ee3d9017f9183b51d384fbec5efc293.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/blackghostaddon/gray/master/quasar.xml</externallink>
+</item>
+
+
+
+<item>
+<title>[B]Television 24/7[/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]</title>
+<link>https://mp4.vaughnsoft.net/live?app=live&amp;port=2935&amp;stream=live_[makelist.param1]|Referer=https://vaughnlive.tv/</link>
+<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/[makelist.param2]_320.jpg</thumbnail>
+]]></listrepeat>
+<expres>a href="/(.*?)"[\w\W\s]{0,22}browseTxt">(.*?)<</expres>
+<page>https://vaughnlive.tv/browse/espanol&amp;a=mvn</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/247.png</thumbnail><fanart>https://i.pinimg.com/originals/3e/e3/d9/3ee3d9017f9183b51d384fbec5efc293.jpg</fanart>
+</item>
+
+
+	
+	
+<item>
+<title>[COLOR white][B]IPTV 2018[/B] [/COLOR][COLOR lightslategray][World Servers Updated Daily][/COLOR] </title>
+<link>http://ignorame</link><thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/iptv.png</thumbnail><fanart>https://i.pinimg.com/originals/3e/e3/d9/3ee3d9017f9183b51d384fbec5efc293.jpg</fanart>
+<externallink>https://dl.dropbox.com/s/ubaytb5h8qupe4h/listas%20ariales.xml?dl=0</externallink>
+</item>
+
+
+
+
+<item>
+<title>[COLOR white][B]IPTV[/B] [/COLOR][COLOR lightslategray][World Servers Updated Daily][/COLOR] </title>
+<link>http://ignorame</link><thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/iptv.png</thumbnail><fanart>https://i.pinimg.com/originals/3e/e3/d9/3ee3d9017f9183b51d384fbec5efc293.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/blackghostaddon/gray/master/iptv.xml</externallink>
+</item>
+
+
+
+<item>
+<title>Entretenimiento</title>
+<link>http://ignorame</link><thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/entretenimiento.png</thumbnail><fanart>https://i.pinimg.com/originals/3e/e3/d9/3ee3d9017f9183b51d384fbec5efc293.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/blackghostaddon/gray/master/ent.xml</externallink>
+</item>
+
+
+
+<item>
+<title>CHANNEL</title>
+<link>http://ignorame</link><thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/entretenimiento.png</thumbnail><fanart>https://i.pinimg.com/originals/3e/e3/d9/3ee3d9017f9183b51d384fbec5efc293.jpg</fanart>
+<externallink>https://pastebin.com/raw/pnPm4Nvw</externallink>
+</item>
+
+
+
+<item>
+<title>Radio</title>
+<link>http://ignorame</link><thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/entretenimiento.png</thumbnail><fanart>https://i.pinimg.com/originals/3e/e3/d9/3ee3d9017f9183b51d384fbec5efc293.jpg</fanart>
+<externallink>http://gen-tec.co/gentecwiz/PLEASE%20SUBSCRIBE%20TO%20CHARLIE%20TEC%20YOUTUBE/star/RADIOMAIN.xml</externallink>
+</item>
+
+
+
+
+<item>
+<title>Live Concerts</title>
+<link>http://ignorame</link><thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/entretenimiento.png</thumbnail><fanart>https://i.pinimg.com/originals/3e/e3/d9/3ee3d9017f9183b51d384fbec5efc293.jpg</fanart>
+<externallink>http://gen-tec.co/gentecwiz/PLEASE%20SUBSCRIBE%20TO%20CHARLIE%20TEC%20YOUTUBE/star/liveconcerts.xml</externallink>
+</item>
+
+
+
+
+<item>
+<title>Live Youtube</title>
+<link>http://ignorame</link><thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/entretenimiento.png</thumbnail><fanart>https://i.pinimg.com/originals/3e/e3/d9/3ee3d9017f9183b51d384fbec5efc293.jpg</fanart>
+<externallink>https://dl.dropbox.com/s/gt718dx7nmmi1tp/YUOT..xml</externallink>
+</item>
+
+
+
+
+<item>
+<title>Music</title>
+<link>http://ignorame</link><thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/entretenimiento.png</thumbnail><fanart>https://i.pinimg.com/originals/3e/e3/d9/3ee3d9017f9183b51d384fbec5efc293.jpg</fanart>
+<externallink>https://pastebin.com/raw/ex05Hsht</externallink>
+</item>
+
+
+
+
+
+
+<item>
+<title>[B]Mas listas[/B]</title>
+
+<link>NA</link>
+<externallink>$doregex[select]</externallink>
+<regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import xbmcgui
+   dialog = xbmcgui.Dialog()
+   ret = dialog.select('Seleciona una Lista ', ['Sr Regio', 'BassFox', 'TecnoTV', 'MospyTV'])
+   lists = ['http://srregio.xyz', 'https://goo.gl/YuhGky', 'http://tecnotv.xyz/addon/index.htm', 'http://www.blog.kodipro.org/Supermospy%20TV.xml']
+   return lists[ret]
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/mas.png</thumbnail>
+<fanart>https://i.pinimg.com/originals/3e/e3/d9/3ee3d9017f9183b51d384fbec5efc293.jpg</fanart>
+</item>
+
+
+
+<!--
+
+
+
+<item>
+<title>Fitness-</title>
+<link>http://ignorame</link><thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/fitness.png</thumbnail><fanart>https://i.pinimg.com/originals/3e/e3/d9/3ee3d9017f9183b51d384fbec5efc293.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/blackghostaddon/gray/master/fitness.xml</externallink>
+</item>
+
+
+
